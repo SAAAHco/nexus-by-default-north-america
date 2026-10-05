@@ -1,0 +1,22 @@
+type,observed,modeled,total,kind
+Thermoelectric cooling water vs generation and cost,10,6,16,trade-off
+"Remote and northern energy, freight, and country food",16,1,17,trade-off
+"Emissions, climate goals, and cost",8,10,18,trade-off
+"Rights, equity, revenue, and governance",13,5,18,trade-off
+"Biofuels, bioenergy, and land for energy",13,10,23,trade-off
+"Food trade, virtual water, footprints, and diets",15,10,25,trade-off
+Hydropower and reservoir operation vs other water uses,27,9,36,trade-off
+"Urban supply, conveyance, desalination, and treatment energy",25,14,39,trade-off
+"Groundwater pumping, energy prices, and aquifer storage",33,10,43,trade-off
+"Irrigated agriculture vs water allocation, income, and ecosystems",34,22,56,trade-off
+Conduit hydropower and irrigation piping,1,1,2,synergy
+Cooling technology change and plant retirement,1,1,2,synergy
+Energy recovery and low-carbon supply options,5,4,9,synergy
+"Diets, local food, subsistence, and food-waste reduction",8,4,12,synergy
+Agronomic adaptation and crop choice,3,11,14,synergy
+"Solar co-location with farms, canals, reservoirs, and pumps",5,12,17,synergy
+Water conservation and irrigation efficiency saving energy,12,8,20,synergy
+"Groundwater caps, water markets, and allocation instruments",13,7,20,synergy
+"Wastewater, stormwater, and recycled water supply",13,8,21,synergy
+Renewable generation replacing thermal power or diesel,21,12,33,synergy
+"Integrated planning, shared infrastructure, and co-governance",31,10,41,synergy
