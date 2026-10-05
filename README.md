@@ -1,5 +1,7 @@
 # Nexus by Default: data for Chapter 15
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23148569.svg)](https://doi.org/10.5281/zenodo.23148569)
+
 Supporting data for Ashkanani, Z., & Mohtar, R. H. (2026). *Nexus by Default: How North America Governs Water, Energy, and Food in Practice* (Chapter 15), in an edited volume on the water-energy-food nexus in practice (Taylor & Francis, forthcoming).
 
 The repository contains the coded literature corpus, the typed inventories of trade-offs and synergies, the OpenAlex bibliometric counts with the raw query responses, and the plotted values for each data figure in the chapter.
@@ -42,4 +44,6 @@ This repository is released under the Creative Commons Attribution 4.0 Internati
 
 ## Citation
 
-Ashkanani, Z., & Mohtar, R. H. (2026). *Nexus by Default: data for Chapter 15* [Data set]. GitHub. https://github.com/SAAAHco/nexus-by-default-north-america
+Ashkanani, Z., & Mohtar, R. H. (2026). *Nexus by default: Data for Chapter 15* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23148569
+
+All versions: https://doi.org/10.5281/zenodo.23148568. Source: https://github.com/SAAAHco/nexus-by-default-north-america
