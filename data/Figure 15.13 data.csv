@@ -1,0 +1,12 @@
+,region_US,region_CA,region_MX,region_Arctic,region_Transboundary,region_Global-with-NA,benefit_Water,benefit_Energy,benefit_Food,benefit_Emissions,benefit_Cost or revenue,benefit_Access or equity,observed_studies,modeled_only_studies,total_studies
+Conduit hydropower and irrigation piping,1,0,0,0,0,1,1,2,1,0,1,0,1,1,2
+Cooling technology change and plant retirement,2,0,0,0,0,0,2,2,0,0,0,0,1,1,2
+Energy recovery and low-carbon supply options,3,1,3,1,1,0,4,7,5,2,2,1,5,4,9
+"Diets, local food, subsistence, and food-waste reduction",3,1,2,2,1,3,8,7,11,2,1,2,8,4,12
+Agronomic adaptation and crop choice,7,4,2,0,0,1,10,7,12,2,3,1,3,11,14
+"Solar co-location with farms, canals, reservoirs, and pumps",9,0,5,2,1,0,10,16,10,4,6,3,5,12,17
+Water conservation and irrigation efficiency saving energy,11,0,3,0,2,4,19,9,5,7,8,0,12,8,20
+"Groundwater caps, water markets, and allocation instruments",12,1,3,1,1,2,19,9,7,2,9,0,13,7,20
+"Wastewater, stormwater, and recycled water supply",9,1,7,1,0,3,20,9,9,6,6,0,13,8,21
+Renewable generation replacing thermal power or diesel,11,4,6,11,0,1,19,33,10,5,8,7,21,12,33
+"Integrated planning, shared infrastructure, and co-governance",18,1,3,10,3,7,25,23,19,4,5,6,31,10,41
